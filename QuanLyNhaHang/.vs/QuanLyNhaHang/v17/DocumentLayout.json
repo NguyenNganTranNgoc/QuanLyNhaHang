@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|c:\\users\\lenovo\\downloads\\do_an\\quanlynhahang\\views\\formquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|c:\\users\\lenovo\\downloads\\do_an\\quanlynhahang\\controllers\\banancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:controllers\\banancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formquanlybanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formquanlybanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|c:\\users\\lenovo\\downloads\\do_an\\quanlynhahang\\views\\formquanlybanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formquanlybanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|c:\\users\\lenovo\\downloads\\do_an\\quanlynhahang\\views\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|c:\\users\\lenovo\\downloads\\do_an\\quanlynhahang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formkhonguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formkhonguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formthongtinbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formthongtinbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formnguyenlieyumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formnguyenlieyumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\views\\formbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:views\\formbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|c:\\users\\lenovo\\downloads\\do_an\\quanlynhahang\\quanlynhahang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C8FBC15-EB46-4BA5-BCC9-5E80C852B9F3}|QuanLyNhaHang.csproj|solutionrelative:quanlynhahang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormQuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "Views\\FormQuanLyNhanVien.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyNhanVien.cs [Design]*",
+              "RelativeToolTip": "Views\\FormQuanLyNhanVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:24:16.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormQuanLyHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "Views\\FormQuanLyHoaDon.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyHoaDon.cs",
+              "RelativeToolTip": "Views\\FormQuanLyHoaDon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:16:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "Views\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "Views\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:03:34.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BanAnController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Controllers\\BanAnController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BanAnController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Controllers\\BanAnController.cs",
+              "RelativeToolTip": "Controllers\\BanAnController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:12:06.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "Views\\FormThongKe.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "Views\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:09:42.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormQuanLyBanAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyBanAn.cs",
+              "RelativeDocumentMoniker": "Views\\FormQuanLyBanAn.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyBanAn.cs [Design]",
+              "RelativeToolTip": "Views\\FormQuanLyBanAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:16:13.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormQuanLyBanAn.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyBanAn.cs",
+              "RelativeDocumentMoniker": "Views\\FormQuanLyBanAn.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyBanAn.cs",
+              "RelativeToolTip": "Views\\FormQuanLyBanAn.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:16:17.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormQuanLyHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "Views\\FormQuanLyHoaDon.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormQuanLyHoaDon.cs [Design]",
+              "RelativeToolTip": "Views\\FormQuanLyHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:15:42.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-03T16:13:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPhieuNhapKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "Views\\FormPhieuNhapKho.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormPhieuNhapKho.cs [Design]",
+              "RelativeToolTip": "Views\\FormPhieuNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:10:28.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormThongTinBanAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormThongTinBanAn.cs",
+              "RelativeDocumentMoniker": "Views\\FormThongTinBanAn.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormThongTinBanAn.cs [Design]",
+              "RelativeToolTip": "Views\\FormThongTinBanAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:09:41.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormMain.cs",
+              "RelativeDocumentMoniker": "Views\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormMain.cs [Design]",
+              "RelativeToolTip": "Views\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:09:33.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormKhoNguyenLieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormKhoNguyenLieu.cs",
+              "RelativeDocumentMoniker": "Views\\FormKhoNguyenLieu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormKhoNguyenLieu.cs [Design]",
+              "RelativeToolTip": "Views\\FormKhoNguyenLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:04:34.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormNguyenLieyuMoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormNguyenLieyuMoi.cs",
+              "RelativeDocumentMoniker": "Views\\FormNguyenLieyuMoi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormNguyenLieyuMoi.cs [Design]",
+              "RelativeToolTip": "Views\\FormNguyenLieyuMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:09:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormKhuyenMai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormKhuyenMai.cs",
+              "RelativeDocumentMoniker": "Views\\FormKhuyenMai.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormKhuyenMai.cs [Design]",
+              "RelativeToolTip": "Views\\FormKhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:08:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormBill.cs",
+              "RelativeDocumentMoniker": "Views\\FormBill.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\Views\\FormBill.cs [Design]",
+              "RelativeToolTip": "Views\\FormBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:08:35.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuanLyNhaHang.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\QuanLyNhaHang.csproj",
+              "RelativeDocumentMoniker": "QuanLyNhaHang.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\DO_AN\\QuanLyNhaHang\\QuanLyNhaHang.csproj",
+              "RelativeToolTip": "QuanLyNhaHang.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T16:00:53.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

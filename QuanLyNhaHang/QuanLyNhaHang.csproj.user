@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\BanAnUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Bill.cs">
+      <SubType>XtraReport</SubType>
+    </Compile>
+    <Compile Update="Views\BillReport.cs">
+      <SubType>XtraReport</SubType>
+    </Compile>
+    <Compile Update="Views\FormBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormNguyenLieyuMoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormPhieuNhapKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormQuanLyHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormQuanLyBanAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormQuanLyKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormQuanLyMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormQuanLyNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormThongTinBanAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormKhoNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
